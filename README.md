@@ -1,6 +1,7 @@
-### Hi there 👋
+![about me](https://github.com/kozennnn/kozennnn/blob/main/about_me.png)
 
-<!--
+<!--### Hi there 👋
+
 **kozennnn/kozennnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
