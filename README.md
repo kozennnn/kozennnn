@@ -1,6 +1,6 @@
 ![about me](https://github.com/kozennnn/kozennnn/blob/main/about_me.png)
 
-<img src="http://149.202.67.36:3000/board?" width="417"/>
+<img src="http://149.202.67.36:3000/board?21" width="417"/>
 
 [Column 1](http://149.202.67.36:3000/board/0)
 [Column 2](http://149.202.67.36:3000/board/1)
