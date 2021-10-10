@@ -1,8 +1,7 @@
 ![about me](https://github.com/kozennnn/kozennnn/blob/main/about_me.png)
-<img src="about_me.png" width="417"/><img height="180px" hspace="10"/><img src="about_me.png" width="417"/> 
 
-
-<!--### Hi there 👋
+<!--<img src="about_me.png" width="417"/><img height="180px" hspace="10"/><img src="about_me.png" width="417"/> 
+### Hi there 👋
 
 **kozennnn/kozennnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
