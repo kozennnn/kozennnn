@@ -12,7 +12,7 @@
 <img height="10px" hspace="10"/>
 [<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column6.png" width="417"/>](http://149.202.67.36:3000/board/5)
 [<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column7.png" width="417"/>](http://149.202.67.36:3000/board/6)
-
+-->
 
 [Column 1](http://149.202.67.36:3000/board/0)
 [Column 2](http://149.202.67.36:3000/board/1)
