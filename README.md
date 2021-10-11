@@ -1,6 +1,18 @@
 ![about me](https://github.com/kozennnn/kozennnn/blob/main/about_me.png)
 
-<img src="http://149.202.67.36:3000/board?21" width="417"/>
+<img src="http://149.202.67.36:3000/board?21" width="417"/><img height="180px" hspace="10"/>[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column_how.png" width="417"/>](https://github.com/kozennnn/connect4)
+
+<!--[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column1.png" width="417"/>](http://149.202.67.36:3000/board/0)
+<img height="10px" hspace="10"/>
+[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column2.png" width="417"/>](http://149.202.67.36:3000/board/1)
+[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column3.png" width="417"/>](http://149.202.67.36:3000/board/2)
+<img height="10px" hspace="10"/>
+[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column4.png" width="417"/>](http://149.202.67.36:3000/board/3)
+[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column5.png" width="417"/>](http://149.202.67.36:3000/board/4)
+<img height="10px" hspace="10"/>
+[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column6.png" width="417"/>](http://149.202.67.36:3000/board/5)
+[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column7.png" width="417"/>](http://149.202.67.36:3000/board/6)
+
 
 [Column 1](http://149.202.67.36:3000/board/0)
 [Column 2](http://149.202.67.36:3000/board/1)
