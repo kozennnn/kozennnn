@@ -11,7 +11,7 @@
 [Column 7](http://149.202.67.36:3000/board/6)
 
 
-[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column1.png" width="417"/>](http://149.202.67.36:3000/board/0)
+<!--[<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column1.png" width="417"/>](http://149.202.67.36:3000/board/0)
 <img height="10px" hspace="10"/>
 [<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column2.png" width="417"/>](http://149.202.67.36:3000/board/1)
 [<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column3.png" width="417"/>](http://149.202.67.36:3000/board/2)
@@ -22,7 +22,7 @@
 [<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column6.png" width="417"/>](http://149.202.67.36:3000/board/5)
 [<img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column7.png" width="417"/>](http://149.202.67.36:3000/board/6)
 
-<!--<img height="180px" hspace="10"/><img src="about_me.png" width="417"/> 
+<img height="180px" hspace="10"/><img src="about_me.png" width="417"/> 
 ### Hi there 👋
 
 **kozennnn/kozennnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
