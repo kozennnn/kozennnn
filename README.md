@@ -5,7 +5,7 @@
 <div style="display: flex; flex-direction: row; background-color: red">
   <img src="http://149.202.67.36:3000/board" width="417" align="left" />
   <div style="display: flex; flex-direction: column; align-items: flex-start;" align="right">
-    <img src="https://github.com/kozennnn/kozennnn/blob/main/card.png" width="407" />
+    <!--<img src="https://github.com/kozennnn/kozennnn/blob/main/card.png" width="407" />-->
     <p height="0px" width="407"> </p>
     <a href="https://github.com/kozennnn/connect4"><img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column_how.png" width="407"/></a>
     <a href="http://149.202.67.36:3000/board/0"><img src="https://raw.githubusercontent.com/kozennnn/connect4/master/public/images/column1.png" width="407"/></a>
