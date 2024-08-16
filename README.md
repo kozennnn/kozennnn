@@ -1,6 +1,6 @@
-![information](https://github.com/kozennnn/kozennnn/blob/main/top_secret.png)
+<!--![information](https://github.com/kozennnn/kozennnn/blob/main/top_secret.png)-->
 
-<!--![about me](https://github.com/kozennnn/kozennnn/blob/main/about_me.png)-->
+![about me](https://github.com/kozennnn/kozennnn/blob/main/about_me.png)
 
 <div style="display: flex; flex-direction: row; background-color: red">
   <img src="http://149.202.67.36:3000/board" width="417" align="left" />
